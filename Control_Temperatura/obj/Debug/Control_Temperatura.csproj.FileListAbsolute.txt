@@ -1,0 +1,13 @@
+G:\Archivos principales\Tecnologico\Semestre 5\Nestor\Control_Temperatura\Control_Temperatura\bin\Debug\Control_Temperatura.exe.config
+G:\Archivos principales\Tecnologico\Semestre 5\Nestor\Control_Temperatura\Control_Temperatura\bin\Debug\Control_Temperatura.exe
+G:\Archivos principales\Tecnologico\Semestre 5\Nestor\Control_Temperatura\Control_Temperatura\bin\Debug\Control_Temperatura.pdb
+G:\Archivos principales\Tecnologico\Semestre 5\Nestor\Control_Temperatura\Control_Temperatura\obj\Debug\Control_Temperatura.csproj.AssemblyReference.cache
+G:\Archivos principales\Tecnologico\Semestre 5\Nestor\Control_Temperatura\Control_Temperatura\obj\Debug\Control_Temperatura.Form1.resources
+G:\Archivos principales\Tecnologico\Semestre 5\Nestor\Control_Temperatura\Control_Temperatura\obj\Debug\Control_Temperatura.InterfazSensoresN1.resources
+G:\Archivos principales\Tecnologico\Semestre 5\Nestor\Control_Temperatura\Control_Temperatura\obj\Debug\Control_Temperatura.InterfazSensoresN2.resources
+G:\Archivos principales\Tecnologico\Semestre 5\Nestor\Control_Temperatura\Control_Temperatura\obj\Debug\Control_Temperatura.InterfazSensoresN3.resources
+G:\Archivos principales\Tecnologico\Semestre 5\Nestor\Control_Temperatura\Control_Temperatura\obj\Debug\Control_Temperatura.Properties.Resources.resources
+G:\Archivos principales\Tecnologico\Semestre 5\Nestor\Control_Temperatura\Control_Temperatura\obj\Debug\Control_Temperatura.csproj.GenerateResource.cache
+G:\Archivos principales\Tecnologico\Semestre 5\Nestor\Control_Temperatura\Control_Temperatura\obj\Debug\Control_Temperatura.csproj.CoreCompileInputs.cache
+G:\Archivos principales\Tecnologico\Semestre 5\Nestor\Control_Temperatura\Control_Temperatura\obj\Debug\Control_Temperatura.exe
+G:\Archivos principales\Tecnologico\Semestre 5\Nestor\Control_Temperatura\Control_Temperatura\obj\Debug\Control_Temperatura.pdb
